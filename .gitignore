@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+.env
+faiss_index/
+.DS_Store
+ temp_2040d4b7-6ab5-4ad3-901c-63bd39b2922a.pdf
+

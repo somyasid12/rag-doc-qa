@@ -1,0 +1,19 @@
+streamlit==1.29.0
+
+# LangChain (stable with Pydantic v1)
+langchain==0.1.14
+pydantic==1.10.13
+
+# Document loading
+pypdf==3.17.4
+
+# Embeddings + Vector DB
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+
+# LLM + API calls
+requests==2.31.0
+
+# ML backend
+torch==2.1.0
+transformers==4.35.0
